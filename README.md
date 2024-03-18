@@ -1,3 +1,9 @@
+# gitAlias
+Save time with git Alias
+
+1/ Open you .gitconfig  
+2/ and after [user] put :  
+
 [alias]
 	co = checkout
 	br = branch
